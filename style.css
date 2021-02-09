@@ -1,0 +1,10 @@
+* { box-sizing: border-box; }
+
+
+body { max-width: 2000px; max-height: 1000px; }
+
+.prechu-logo {
+    position: relative;
+    width: 2000px;
+    top: 100px;
+}
